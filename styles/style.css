@@ -140,10 +140,10 @@ body {
 
 @media (max-width: 480px) {
     .apresentacao__conteudo__titulo {
-        padding: 5%;
+        padding: 6%;
     }
     
     .apresentacao__conteudo__texto {
-        padding: 5%;
+        padding: 6%;
     }
 }
