@@ -137,3 +137,14 @@ body {
         width: auto;
     }
 }
+
+@media (max-width: 480px) {
+    .apresentacao__conteudo__titulo {
+        padding: 5%;
+        text-align: center;
+    }
+    
+    .apresentacao__conteudo__texto {
+        padding: 5%;
+    }
+}
